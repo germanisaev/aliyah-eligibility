@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "FirstName": "רבקה",
+      "FirstNameF": "Rivka",
+      "LastName": "גדלביץ",
+      "LastNameF": "Gdalevich",
+      "Password": "123456",
+      "Status": true,
+      "UpdateDate": "Sun Mar 17 2019 14:32:29 GMT+0200 (Israel Standard Time)",
+      "UserName": "rivka"
+    },
+    {
+      "id": 2,
+      "FirstName": "גרמן",
+      "FirstNameF": "German",
+      "LastName": "ישייב",
+      "LastNameF": "Isaev",
+      "Password": "123456",
+      "Status": true,
+      "UpdateDate": "Sun Mar 17 2019 14:33:29 GMT+0200 (Israel Standard Time)",
+      "UserName": "german"
+    }
+  ]
+}

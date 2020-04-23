@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "FirstName": "רבקה",
+            "FirstNameF": "Rivka",
+            "LastName": "גדלביץ",
+            "LastNameF": "Gdalevich",
+            "Password": "123456",
+            "Status": true,
+            "UpdateDate": "Sun Mar 17 2019 14:32:29 GMT+0200 (Israel Standard Time)",
+            "UserID": 1,
+            "UserName": "rivka"
+        },
+        {
+            "FirstName": "גרמן",
+            "FirstNameF": "German",
+            "LastName": "ישייב",
+            "LastNameF": "Isaev",
+            "Password": "123456",
+            "Status": true,
+            "UpdateDate": "Sun Mar 17 2019 14:33:29 GMT+0200 (Israel Standard Time)",
+            "UserID": 2,
+            "UserName": "german"
+        }, 
+        {
+            "filter": [
+                
+            ]
+        }
+    ]
+}
